@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "MicSearch",
+    "packageName": "com.gt.micsearch",
+    "packageFolder": "com/gt/micsearch",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "07e3d747806aa962116945b84482f9f0056f8e80"
+  }
+}
